@@ -1,0 +1,24 @@
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px 0;
+    width: 100px;
+    border-radius: 5px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+input#email {
+    width: 170px;
+    border-radius: 0px;
+}
